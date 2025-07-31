@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Lau</h1>
-<h3 align="center">Year Three Student Studying Computing in Hong Kong</h3>
+<h3 align="center">Final Year Student Studying Computing in Hong Kong</h3>
 
 - 🔭 I’m currently working on **Computer Vision / Big Data Analytics**
 
