@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Steven Lau</h1>
 <h3 align="center">Final Year Student Studying Computing in Hong Kong</h3>
 
-- 🔭 I’m currently working on **Computer Vision / Big Data Analytics**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Computer Vision / Big Data Analytics / Machine Learning / Neural Network / Data Mining**
+- 🌱 I’m currently learning **System and Infrastructure**
 
-- 👯 I’m looking to collaborate on **Data Mining**
+- 👯 I’m looking to collaborate on **Security**
 
-- 🤝 I’m looking for help with **Machine Learning / Neural Network**
-
-- 💬 Ask me about **Python / C**
+- 🤝 I’m looking for help with **AI / Security**
 
 - 📫 How to reach me **4lsteven66@gmail.com**
 
