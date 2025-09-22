@@ -15,16 +15,14 @@ I'm a Computing student at **The Hong Kong Polytechnic University**, passionate 
 ---
 
 ## 📌 Featured Project
-- [🌐 Personal Portfolio Website](https://github.com/yourusername/portfolio)  
+- [🌐 Personal Portfolio Website](https://github.com/sdfg6850/my-portfolio)  
   Built with React, Vite, Tailwind CSS, and Framer Motion.  
   Features parallax hero, glowing portrait halo, particle effects, interactive navbar, and animated project cards.
 
 ---
 
 ## 📫 Connect with Me
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** yanshinglau.work@gmail.com  
 
 ---
 
